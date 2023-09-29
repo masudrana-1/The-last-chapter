@@ -12,7 +12,7 @@ function App() {
         <h1>The Last Chapter</h1>
       </div>
       <p className="read-the-docs">
-        
+        This is a book online book store
       </p>
     </>
   )
